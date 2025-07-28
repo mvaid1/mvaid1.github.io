@@ -35,4 +35,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a PhD student in the [Department of Computer Science](https://cs.engineering.gwu.edu/)  at [The George Washington University](https://www.gwu.edu/), where I am fortunate to have [Arkady Yerukhimovich](https://www2.seas.gwu.edu/~arkady/) as my advisor. Previously, I have received MS in Systems Engineering in 2024 from [The Johns Hopkins University](https://www.jhu.edu/).
 
-I am broadly interested in theoretical and applied Cryptography, with recent work on Distributed Point Functions, Functional Encryption, Content Moderation in E2E Messaging Services and Private Set Intersection. 
+I am broadly interested in theoretical and applied Cryptography, with recent work on Distributed Point Functions, Functional Encryption, Content Moderation in E2E Messaging Services and Private Set Intersection.
+
+You can find my CV [here](https://github.com/mvaid1/mvaid1.github.io/CV/mohit_resume.pdf)
+
+I am happy to be contacted at m\[dot\]vaid\[at\]gwu\[dot\]edu
