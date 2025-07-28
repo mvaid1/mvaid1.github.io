@@ -13,7 +13,7 @@ profile:
     <p>Science & Engineering Hall</p>
     <p>Washington, DC 20052</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -37,6 +37,6 @@ I am a PhD student in the [Department of Computer Science](https://cs.engineerin
 
 I am broadly interested in theoretical and applied Cryptography, with recent work on Distributed Point Functions, Functional Encryption, Content Moderation in E2E Messaging Services and Private Set Intersection.
 
-You can find my CV [here](https://github.com/mvaid1/mvaid1.github.io/CV/mohit_resume.pdf)
+You can find my CV [here](https://mvaid1.github.io/CV/mohit_resume.pdf)
 
 I am happy to be contacted at m\[dot\]vaid\[at\]gwu\[dot\]edu
