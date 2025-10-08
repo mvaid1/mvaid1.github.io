@@ -1,12 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+title: Teaching
+description: Current teaching assistantship in computer science at The George Washington University 
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I am currently a **Graduate Teaching Assistant** for **CS 6212 – Design and Analysis of Algorithms**  taught by [Dr. Amrinder Arora](https://cs.engineering.gwu.edu/amrinder-arora).
 
-Organize your courses by years, topics, or universities, however you like!
+My responsibilities include hosting office hours, assisting students with assignments and algorithmic problem-solving, and supporting course grading and discussion activities.
+
+---
