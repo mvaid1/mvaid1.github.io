@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: Current teaching assistantship in computer science at The George Washington University 
-nav_order: 6
+nav_order: 3
+nav: true
 ---
 
 I am currently a **Graduate Teaching Assistant** for **CS 6212 – Design and Analysis of Algorithms**  taught by [Dr. Amrinder Arora](https://cs.engineering.gwu.edu/amrinder-arora).

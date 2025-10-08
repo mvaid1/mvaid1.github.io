@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-17 15:59:00-0400
+date: 2025-08-08 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Attended PETS 2025 as a student Volunteer
+Attended [Secure Computation](https://simons.berkeley.edu/workshops/secure-computation-0) Workshop at [Simons Institute](https://simons.berkeley.edu/homepage), UC Berkely 
