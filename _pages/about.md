@@ -33,10 +33,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a PhD student in the [Department of Computer Science](https://cs.engineering.gwu.edu/)  at [The George Washington University](https://www.gwu.edu/), where I am fortunate to have [Arkady Yerukhimovich](https://www2.seas.gwu.edu/~arkady/) as my advisor. Previously, I have received MS in Systems Engineering in 2024 from [The Johns Hopkins University](https://www.jhu.edu/).
+I am a second year PhD student in the [Department of Computer Science](https://cs.engineering.gwu.edu/)  at [The George Washington University](https://www.gwu.edu/), where I am fortunate to have [Arkady Yerukhimovich](https://www2.seas.gwu.edu/~arkady/) as my advisor. Previously, I have received MS in Systems Engineering in 2024 from [The Johns Hopkins University](https://www.jhu.edu/).
 
 My research focuses on both theoretical and applied aspects of cryptography, with recent work on Distributed Point Functions, Functional Encryption, Content Moderation in E2E Messaging Services and Private Set Intersection, as well as emerging directions in post-quantum cryptography such as SQI-based signature schemes.
 
-You can find my CV [here](https://mvaid1.github.io/CV/mohit_resume.pdf)
+You can find my CV [here](assets/pdf/Resume.pdf)
 
 I am happy to be contacted at m\[dot\]vaid\[at\]gwu\[dot\]edu
