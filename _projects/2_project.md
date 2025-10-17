@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Block-Chain based Ransomware
+description:  This project explores the concept of blockchain-based ransomware using smart contracts, aiming to introduce a degree of automation and fair exchange to the ransomware process. The proposed solution leverages the Ethereum blockchain and smart contracts to create a decentralized and transparent ransomware system. 
+img : /assets/img/book_covers/Ransomware.jpg
+redirect: https://github.com/mvaid1/Ransomware_Escrow_Service
+importance: 1
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Projects
+title: Hands-on Projects
 permalink: /projects/
 description: 
-nav: false
+nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false

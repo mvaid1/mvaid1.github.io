@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: JMessage
+description: Encrypted Messaging System with Security Analysis This project implements an end-to-end encrypted messaging system using ECDH, ChaCha20, and ECDSA. It also demonstrates a padding oracle attack, showcasing both secure system design and vulnerability exploitation techniques.
+img: /assets/img/book_covers/Imessage.jpg
+redirect: https://github.com/mvaid1/Jmessage_crypto
+importance: 2
 category: work
 ---
 
